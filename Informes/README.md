@@ -1,1 +1,1 @@
-# Directorio con la documentación todo el proyecto.
+# Directorio con la documentación de todo el proyecto.
